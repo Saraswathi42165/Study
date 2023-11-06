@@ -1,0 +1,9 @@
+11/06/2023:
+Need to understand below concepts before going to linux
+1) What is UNIX
+2) What is LINUX
+3) What are the linux Distributions
+4) what is debian and redhat 
+5) Examples of Debian os and examples of Redhat versions.
+6) What is shell (understand cshell and bashshell if any other just to know).
+7) Basic commands in linux.
